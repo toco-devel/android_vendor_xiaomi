@@ -285,11 +285,13 @@ PRODUCT_PACKAGES += \
     libmialgo_rfs \
     libmialgo_sd \
     libmialgo_utils \
+    libmialgoengine \
     libmibokeh_712 \
     libmpbase \
     libnotifyaudiohal \
     libremosaic_daemon \
     libremosaiclib \
+    libsdk_sr \
     libsensorslog \
     libsns_fastRPC_util \
     libsns_low_lat_stream_stub \
@@ -303,11 +305,12 @@ PRODUCT_PACKAGES += \
     libultrasound \
     libvidhance \
     libxmi_high_dynamic_range \
+    libxml2_vendor \
     sensors.elliptic \
     sensors.mius.proximity \
     sensors.ssc \
     sensors.touch \
-    vendor.qti.hardware.camera.device@1.0 \
+    vendor.qti.hardware.camera.device@1.0_micam \
     vendor.qti.hardware.camera.device@2.0 \
     vendor.qti.hardware.camera.device@3.5 \
     batterysecret \
